@@ -1,4 +1,5 @@
-# 2IS060 Sociala Medier och Digitala Metoder, Notebooks
+# 2IV121 Human-Computer Interaction: Social Media, Notebook
+
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS060/master)
 
