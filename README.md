@@ -1,6 +1,6 @@
 # 2IV176 Human-Computer Interaction: Social Media, design and communication, Notebook
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2F2IV176%2Ftextmining_jupyter%2Fmaster/master)
 [![Binder](https://mybinder.org/v2/gh/2IV176/textmining_jupyter/805488fdd1141fef025d2d109d1dba1926f0cf8d)
 
 This repository contains the example and lab notebooks for the 2IV176 Human-Computer Interaction: Social Media, design and communication course.
