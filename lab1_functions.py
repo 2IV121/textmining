@@ -270,4 +270,4 @@ def plot_wordcloud():
         lower=widgets.Checkbox(value=False, description='Apply lowercase', continuous_update=False),
         more_stop_words=widgets.Text(value='one,', description='Additional stop words:', continuous_update=False))
 
-print("Human-Computer Interaction: Social Media Text mining initialized... OK!")
+print("Human-Computer Interaction: Social Media, design and communication Text mining Lab 1 initialized... OK!")
