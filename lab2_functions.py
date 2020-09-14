@@ -184,4 +184,4 @@ def interact_naive_bayes():
         disabled=False
 ))
     
-print("Social Media and Digital Methods Lab 4 initialized... OK!")
+print("Human-Computer Interaction: Social Media, design and communication Text mining Lab 2 initialized... OK!")
